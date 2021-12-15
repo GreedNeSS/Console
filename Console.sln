@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1-console-buffer", "1-conso
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2-write-line", "2-write-line\2-write-line.csproj", "{92922F1B-A63B-43A1-8535-11E3A35BFAFA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3-read", "3-read\3-read.csproj", "{F2D3BDB2-3A58-4B3C-99A2-CDF32FBA9EDF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{92922F1B-A63B-43A1-8535-11E3A35BFAFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{92922F1B-A63B-43A1-8535-11E3A35BFAFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{92922F1B-A63B-43A1-8535-11E3A35BFAFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2D3BDB2-3A58-4B3C-99A2-CDF32FBA9EDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2D3BDB2-3A58-4B3C-99A2-CDF32FBA9EDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2D3BDB2-3A58-4B3C-99A2-CDF32FBA9EDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2D3BDB2-3A58-4B3C-99A2-CDF32FBA9EDF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
